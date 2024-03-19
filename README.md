@@ -1,5 +1,5 @@
 # Project Name
-> Outline a brief description of your project.
+> Project BoomBikes: In this project we will a multiple linear regression model for the prediction of demand for shared bikes.
 
 
 ## Table of Contents
